@@ -20,12 +20,6 @@
 - **Plataforma:** Windows / WebGL  
 - **Repositorio:** https://github.com/tu-usuario/Parasonmia
 
-## 📁 Estructura del proyecto
-
-- `/Assets`: todos los assets del juego (escenas, scripts, sonidos, sprites)
-- `/ProjectSettings`: configuración del proyecto Unity
-- `/Docs`: documentación del proyecto (Scrum, ISO, informes)
-
 ## 📝 Licencia
 
 Distribuido bajo la **MIT License**. Ver archivo `LICENSE` para más detalles.
